@@ -15,7 +15,7 @@ void directApproach(int a[], int n) {
         }
     }
     for(int i=0; i<n; i++) {
-        cout<<output[i]<<endl;
+        cout<<output[i];
     }
 }
 
@@ -39,7 +39,7 @@ int main(){
     cout<<endl;
     singlePassApproach(temp, output, n);
     for(int i=0; i<n; i++) {
-        cout<<output[i]<<endl;
+        cout<<output[i];
     }
    return 0;
 }
