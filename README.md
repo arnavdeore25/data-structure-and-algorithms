@@ -1,8 +1,17 @@
-# C Programming Lab
+# Data Structures and Algorithms Lab
 
-This repository has been created solely for academic submission of Lab Exercises for Data Structures and algorithms Coursework requirements.
+This repository is designed for learning and practicing core Data Structures and Algorithms (DSA) concepts. It contains lab exercises, challenge programs, and foundational implementations that help build problem-solving skills and strengthen understanding of common data structures.
 
-**Submitted By:**  
-Arnav Deore  
-Master of Computer Applications (MCA)  
-Christ University
+## Purpose
+
+The goal of this repository is to:
+
+- practice DSA fundamentals with hands-on examples
+- learn how arrays, linked lists, stacks, and basic algorithmic thinking work
+- improve coding skills in C
+- understand time and space complexity
+- build a strong foundation for competitive programming and interview preparation
+
+## Author
+
+Arnav Deore
