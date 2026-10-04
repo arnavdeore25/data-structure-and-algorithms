@@ -8,7 +8,7 @@ The goal of this repository is to:
 
 - practice DSA fundamentals with hands-on examples
 - learn how arrays, linked lists, stacks, and basic algorithmic thinking work
-- improve coding skills in C
+- improve coding skills
 - understand time and space complexity
 - build a strong foundation for competitive programming and interview preparation
 
